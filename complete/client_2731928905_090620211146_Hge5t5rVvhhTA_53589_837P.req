@@ -1,0 +1,1061 @@
+{
+    "client_id": "client_2731928905",
+    "transaction_type": "837P",
+    "payer_id": "53589"
+,
+    "submitter": {
+        "loop": "loop1000A",
+        "id": "",
+        "name": "MEDVERTEX",
+        "type": "2",
+        "contact": "",
+        "contact_type1": "TE",
+        "value1": "8008931747",
+        "contact_type2": "",
+        "value2": "",
+        "contact_type3": "",
+        "value3": ""
+    },
+    "receiver": {
+        "loop": "1000B",
+        "id": "",
+        "name": "",
+        "type": ""
+    }
+,
+    "transactions": [
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "XBP852156675",
+                "group_num": "51503",
+                "plan_name": "PPO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Shahreen",
+                "first_name": "Rusafa",
+                "middle_name": "",
+                "suffix": "",
+                "address": "5038 Hardy DR",
+                "city": "Tempe",
+                "state": "AZ",
+                "zip_code": "85282",
+                "date_of_birth": "19950430",
+                "gender": "F",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "7809680371",
+                "charges": "175.00",
+                "DX_code": [
+                    "F41.9",
+                    "Z62.811"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210306",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "4184420160"
+                }
+            ]
+        },
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "SZY972M89564",
+                "group_num": "279453M007",
+                "plan_name": "PPO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Simon",
+                "first_name": "Joshua",
+                "middle_name": "",
+                "suffix": "",
+                "address": "APARTMENT 138, 625 W 1ST ST",
+                "city": "Tempe",
+                "state": "AZ",
+                "zip_code": "85281",
+                "date_of_birth": "19911022",
+                "gender": "M",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "1043608595",
+                "charges": "175.00",
+                "DX_code": [
+                    "F43.10",
+                    "F41.9",
+                    "F34.1"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210306",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "7752832745"
+                }
+            ]
+        },
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "SZY017W03463",
+                "group_num": "277727M716",
+                "plan_name": "PPO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Macdonald",
+                "first_name": "Breanne",
+                "middle_name": "",
+                "suffix": "",
+                "address": "816 WEST 18TH STREET",
+                "city": "Tempe",
+                "state": "AZ",
+                "zip_code": "85281",
+                "date_of_birth": "19850327",
+                "gender": "F",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "8190071445",
+                "charges": "175.00",
+                "DX_code": [
+                    "F43.10",
+                    "Z62.810"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210306",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "3431333268"
+                }
+            ]
+        },
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "XBP851539073",
+                "group_num": "18940",
+                "plan_name": "PPO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Lassen",
+                "first_name": "Anne",
+                "middle_name": "",
+                "suffix": "",
+                "address": "3024 S Jentilly Ln",
+                "city": "Tempe",
+                "state": "AZ",
+                "zip_code": "85282",
+                "date_of_birth": "19781206",
+                "gender": "F",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "1033462606",
+                "charges": "175.00",
+                "DX_code": [
+                    "F43.10",
+                    "F41.9"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210305",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "9061483377"
+                }
+            ]
+        },
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "XXP961018553",
+                "group_num": "002249891",
+                "plan_name": "PPO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Rugland",
+                "first_name": "Erin",
+                "middle_name": "",
+                "suffix": "",
+                "address": "2104 E FAIRMOUNT AVE",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85016",
+                "date_of_birth": "19960228",
+                "gender": "F",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "5500599776",
+                "charges": "175.00",
+                "DX_code": [
+                    "F41.9",
+                    "F34.1",
+                    "Z62.811"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210305",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "4858556007"
+                }
+            ]
+        },
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "XBK852166781",
+                "group_num": "10434",
+                "plan_name": "HMO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Bucci",
+                "first_name": "Mariah",
+                "middle_name": "",
+                "suffix": "",
+                "address": "Apt 125 7045 North 7th Street",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85020",
+                "date_of_birth": "20010902",
+                "gender": "F",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "1196258131",
+                "charges": "175.00",
+                "DX_code": [
+                    "F43.10",
+                    "Z62.812"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210305",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "9406555024"
+                }
+            ]
+        },
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "XBP851086612",
+                "group_num": "VAL69",
+                "plan_name": "PPO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Tesoriero",
+                "first_name": "Paula",
+                "middle_name": "",
+                "suffix": "",
+                "address": "4531 N 24TH PLACE",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85016",
+                "date_of_birth": "19931110",
+                "gender": "F",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "5836181705",
+                "charges": "175.00",
+                "DX_code": [
+                    "F34.1",
+                    "F41.9",
+                    "R45.81",
+                    "Z62.811"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210304",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "8762205826"
+                }
+            ]
+        },
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "XBM851876959",
+                "group_num": "35286",
+                "plan_name": "PPO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Stewart",
+                "first_name": "Hanna",
+                "middle_name": "",
+                "suffix": "",
+                "address": "945 E PLAYA DEL NORTE DR",
+                "city": "Temp",
+                "state": "AZ",
+                "zip_code": "85281",
+                "date_of_birth": "19890704",
+                "gender": "F",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "9467091623",
+                "charges": "175.00",
+                "DX_code": [
+                    "F43.10",
+                    "F41.9",
+                    "R45.81"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210303",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "2298451440"
+                }
+            ]
+        },
+        {
+            "billing_provider": {
+                "loop": "2010AA",
+                "npi": "1104284595",
+                "type": "2",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014",
+                "contact": {
+                    "name": "Afroza Ahmed",
+                    "type": "TE",
+                    "value": "4803307180"
+                },
+                "tax_id": "813619094"
+            },
+            "subscriber": {
+                "loop": "2010BA",
+                "ins_type": "P",
+                "subscriber_type": "1",
+                "id": "PUS851374744",
+                "group_num": "20434",
+                "plan_name": "PPO",
+                "mcr_secondary_payer_code": "",
+                "last_name": "Tarin",
+                "first_name": "Maria",
+                "middle_name": "",
+                "suffix": "",
+                "address": "3011 N 39TH AVE",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85019",
+                "date_of_birth": "19710120",
+                "gender": "F",
+                "hl_id": "2",
+                "hl_parent_id": "1",
+                "child_code": "0"
+            },
+            "payer": {
+                "loop": "2010BB",
+                "type": "",
+                "name": "BCBS Arizona",
+                "id": "53589",
+                "address": "PO Box 2924",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85062"
+            },
+            "claim": {
+                "loop": "2300",
+                "number": "8933877900",
+                "charges": "175.00",
+                "DX_code": [
+                    "F41.9",
+                    "Z62.820",
+                    "Z62.811",
+                    "Z62.810"
+                ],
+                "frequency": "1",
+                "provider_signature_indicator": "Y",
+                "accept_assignment": "A",
+                "certification": "Y",
+                "release_of_info": "Y",
+                "authorization": "",
+                "onset_of_current_illness": "",
+                "referring_provider": {
+                    "type": "",
+                    "npi": "",
+                    "last_name": "",
+                    "first_name": "",
+                    "middle_name": "",
+                    "suffix": ""
+                },
+                "rendering_provider": {
+                    "type": "1",
+                    "npi": "1104284595",
+                    "first_name": "Afroza",
+                    "middle_name": "",
+                    "last_name": "Ahmed",
+                    "suffix": "",
+                    "taxonomy": "103TC0700X"
+                }
+            },
+            "facility": {
+                "loop": "2310C",
+                "name": "AAMA CONSCIOUS PSYCHOLOGICAL SERVICES, PLLC",
+                "type": "2",
+                "npi": "1104284595",
+                "address": "1130 E Missouri Ave, Suite 800",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "service_line": [
+                {
+                    "dos": "20210303",
+                    "cpt": "90837",
+                    "mod1": "95",
+                    "mod2": "",
+                    "mod3": "",
+                    "mod4": "",
+                    "line_note": "",
+                    "charge": "175.00",
+                    "num_unit": "1",
+                    "pointer": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "control_number": "1",
+                    "place_of_service": "02",
+                    "line_number_control": "1018156160"
+                }
+            ]
+        }
+    ]
+,
+    "groups_num": "1"
+}
